@@ -1,0 +1,16 @@
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.csproj.AssemblyReference.cache
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\MainWindow.g.cs
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\App.g.cs
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP_MarkupCompile.cache
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP_MarkupCompile.lref
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\bin\Debug\KALKYLATOP.exe.config
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\bin\Debug\KALKYLATOP.exe
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\bin\Debug\KALKYLATOP.pdb
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\MainWindow.baml
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.g.resources
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.Properties.Resources.resources
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.csproj.GenerateResource.cache
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.csproj.CoreCompileInputs.cache
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.exe
+C:\Users\stacc\Desktop\KALKYLATOP\KALKYLATOP\obj\Debug\KALKYLATOP.pdb
